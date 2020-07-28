@@ -2,5 +2,4 @@
 
 > Learning the concept of context api.
 
-### DEMO
 
